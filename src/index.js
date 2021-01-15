@@ -64,7 +64,7 @@ function Calls() {
   return (
     <h4
       className="calls"
-      style={{ position: "absolute", top: "30px", right: "160px" }}
+      style={{ position: "absolute", top: "30px", left: "220px" }}
     >
       CALLS
     </h4>
