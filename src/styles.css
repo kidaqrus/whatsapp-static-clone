@@ -1,0 +1,20 @@
+.tweet {
+  border: 1px solid #ccc;
+  width: 300px;
+  min-height: 50px;
+  padding: 10px;
+  display: flex;
+  font-family: "Helvetica", arial, sans-serif;
+  font-size: 14px;
+  line-height: 18px;
+  background-color: rgb(20, 219, 120);
+}
+.appname {
+  position: absolute;
+  top: 1px;
+}
+.camera {
+  height: 25px;
+  position: absolute;
+  top: 45px;
+}
